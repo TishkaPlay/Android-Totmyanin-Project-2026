@@ -11,7 +11,7 @@
   — Три управляющие кнопки (вертикально по центру):  
     *«📊 Статистика»*, *«⬆ Улучшения»*, *«🔄 Сбросить игру»*.
 
-  <img width="1080" height="2332" alt="osnova" src="https://github.com/user-attachments/assets/d9abcc3b-a749-4f39-b551-255b17718ad2" />
+  <img width="250" height="500" alt="osnova" src="https://github.com/user-attachments/assets/d9abcc3b-a749-4f39-b551-255b17718ad2" />
 
 
 - **Экран статистики**  
